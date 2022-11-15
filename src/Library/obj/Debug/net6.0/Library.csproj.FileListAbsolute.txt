@@ -1,0 +1,12 @@
+E:\P2\PII_Family_Tree_Start_JuanGonzalez\src\Library\bin\Debug\net6.0\Library.deps.json
+E:\P2\PII_Family_Tree_Start_JuanGonzalez\src\Library\bin\Debug\net6.0\Library.dll
+E:\P2\PII_Family_Tree_Start_JuanGonzalez\src\Library\bin\Debug\net6.0\Library.pdb
+E:\P2\PII_Family_Tree_Start_JuanGonzalez\src\Library\obj\Debug\net6.0\Library.csproj.AssemblyReference.cache
+E:\P2\PII_Family_Tree_Start_JuanGonzalez\src\Library\obj\Debug\net6.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+E:\P2\PII_Family_Tree_Start_JuanGonzalez\src\Library\obj\Debug\net6.0\Library.AssemblyInfoInputs.cache
+E:\P2\PII_Family_Tree_Start_JuanGonzalez\src\Library\obj\Debug\net6.0\Library.AssemblyInfo.cs
+E:\P2\PII_Family_Tree_Start_JuanGonzalez\src\Library\obj\Debug\net6.0\Library.csproj.CoreCompileInputs.cache
+E:\P2\PII_Family_Tree_Start_JuanGonzalez\src\Library\obj\Debug\net6.0\Library.dll
+E:\P2\PII_Family_Tree_Start_JuanGonzalez\src\Library\obj\Debug\net6.0\refint\Library.dll
+E:\P2\PII_Family_Tree_Start_JuanGonzalez\src\Library\obj\Debug\net6.0\Library.pdb
+E:\P2\PII_Family_Tree_Start_JuanGonzalez\src\Library\obj\Debug\net6.0\ref\Library.dll
